@@ -78,3 +78,16 @@ def run_chatbot():
 # Start the chatbot
 if __name__ == "__main__":
     run_chatbot()
+
+# Enhancements to consider:
+1.	Natural Language Processing (NLP):
+•	Allow users to describe their symptoms in full sentences using NLP libraries like spaCy.
+
+2.	Symptom Suggestion / Auto-complete:
+•	Guide users with symptoms suggestions as they type.
+
+3.	Severity Level & Ris Estimation:
+•	Ask users about symptom severity (mild. moderate, severe) and suggest urgency levels.
+
+4.	User History Tracking”
+•	Store past interactions for better diagnosis over time or personalise health 
