@@ -1,5 +1,5 @@
 # Health-Chatbot-
-# --- FOL Healthcare Chatbot Assignment (CMPG 313) ---
+# --- FOL Healthcare Chatbot ---
 
 # Knowledge base using FOL-style rules
 knowledge_base = {
